@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:50:5"
+
+[OnExit]
+Class="Function"
+Prototype="int OnExit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:66:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:90:17"
+
+[relatieFiltrare]
+Class="Function"
+Prototype="double *relatieFiltrare(double alpha);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:178:9"
+
+[Selectie_Filtrare]
+Class="Function"
+Prototype="int Selectie_Filtrare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:192:17"
+
+[Prev_Next_Second]
+Class="Function"
+Prototype="int Prev_Next_Second(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:246:17"
+
+[Derivare]
+Class="Function"
+Prototype="int Derivare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:385:17"
+
+[Anvelopa]
+Class="Function"
+Prototype="int Anvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:408:17"
+
+[SaveImg]
+Class="Function"
+Prototype="int SaveImg(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:435:17"
+
+[SwitchPanel]
+Class="Function"
+Prototype="int SwitchPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:460:17"
+
+[Load]
+Class="Function"
+Prototype="int Load(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:484:17"
+
+[Aply]
+Class="Function"
+Prototype="int Aply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:544:17"
+
+[modify]
+Class="Function"
+Prototype="int modify(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:610:17"
+
+[spectrum]
+Class="Function"
+Prototype="int spectrum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:735:17"
+
+[Save]
+Class="Function"
+Prototype="int Save(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\V\Desktop\APDP - Copie\Proiect_Et1.c:871:17"
+
